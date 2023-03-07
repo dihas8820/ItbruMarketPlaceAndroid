@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:text="Hello Dihas!"
         android:textStyle="bold"
-        android:textSize="@dimen/_25ssp"
+        android:textSize="50dp"
         android:textColor="#030303"/>
 
     <TextView
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:text="If You Like This Video, Please"
         android:textStyle="bold"
-        android:textSize="@dimen/_20ssp"
+        android:textSize="25dp"
         android:textColor="#030303"/>
 
     <TextView
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:text="SUBSCRIBES"
         android:textStyle="bold"
-        android:textSize="@dimen/_30ssp"
+        android:textSize="25dp"
         android:textColor="#030303"/>
 
 </LinearLayout>
